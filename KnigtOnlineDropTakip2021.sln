@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnigtOnlineDropTakip2021", "KnigtOnlineDropTakip2021\KnigtOnlineDropTakip2021.csproj", "{A5A71DCD-1E77-4396-99EF-D02041123B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A71DCD-1E77-4396-99EF-D02041123B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A71DCD-1E77-4396-99EF-D02041123B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A71DCD-1E77-4396-99EF-D02041123B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A71DCD-1E77-4396-99EF-D02041123B88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE9641C-4128-43EF-9980-B0472820342B}
+	EndGlobalSection
+EndGlobal
